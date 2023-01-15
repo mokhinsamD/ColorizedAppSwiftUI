@@ -11,6 +11,7 @@
 		129A156129730EA100AF45D7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129A156029730EA100AF45D7 /* ContentView.swift */; };
 		129A156329730EA700AF45D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 129A156229730EA700AF45D7 /* Assets.xcassets */; };
 		129A156629730EA700AF45D7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 129A156529730EA700AF45D7 /* Preview Assets.xcassets */; };
+		129A156D297317DC00AF45D7 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129A156C297317DC00AF45D7 /* ColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		129A156029730EA100AF45D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		129A156229730EA700AF45D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		129A156529730EA700AF45D7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		129A156C297317DC00AF45D7 /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				129A155E29730EA100AF45D7 /* ColorizedAppSwiftUIApp.swift */,
 				129A156029730EA100AF45D7 /* ContentView.swift */,
+				129A156C297317DC00AF45D7 /* ColorView.swift */,
 				129A156229730EA700AF45D7 /* Assets.xcassets */,
 				129A156429730EA700AF45D7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				129A156D297317DC00AF45D7 /* ColorView.swift in Sources */,
 				129A156129730EA100AF45D7 /* ContentView.swift in Sources */,
 				129A155F29730EA100AF45D7 /* ColorizedAppSwiftUIApp.swift in Sources */,
 			);
